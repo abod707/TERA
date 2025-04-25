@@ -1,3 +1,4 @@
+anthropic
 pydantic
 duckduckgo-search
 bs4
